@@ -1,6 +1,6 @@
-# AWS ECR Terraform Module #
+# AWS Secrets manager Terraform Module #
 
-This Terraform module deploys an AWS ECR manage cross account access and lifecycle policies.
+This Terraform module deploys AWS Secrets.
 
 [![](https://github.com/idjemaoune/terraform-aws-secrets/workflows/Terraform/badge.svg)](https://github.com/idjemaoune/terraform-aws-secrets/actions?query=workflow%3ATerraform)
 [![](https://img.shields.io/github/license/idjemaoune/terraform-aws-secrets)](https://github.com/idjemaoune/terraform-aws-secrets)
